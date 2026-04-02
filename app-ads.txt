@@ -1,0 +1,7 @@
+# app-ads.txt for Android App
+
+# Google AdMob (DIRECT)
+google.com, pub-7859403600122507, DIRECT, f08c47fec0942fa0
+
+# Yandex Ads (DIRECT) 
+adfox.yandex.ru, 105737706, DIRECT
